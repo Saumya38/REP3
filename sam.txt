@@ -1,0 +1,9 @@
+osi model
+diff between tcp/ip and osi
+port address
+ip address
+mac table routing table
+arp table
+dns d5555555555555555555555555555555555555555555555555555555555555555sss
+gsaumya1
+@V4BI
